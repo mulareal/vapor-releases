@@ -1,54 +1,43 @@
-𝐕 𝐀 𝐏 𝐎 𝐑 — Premium Game Launcher
-Version Platform 
-License
+# VAPOR — THE ULTIMATE GAME LAUNCHER
 
-VAPOR is a high-performance, community-driven game launcher designed for the modern gamer. Powered by SteamRIP and built with a sleek glassmorphic B&W aesthetic, it combines a robust game library with a real-time social hub and bulletproof save management.
+<p align="center">
+  <b>Experience gaming without limits. A premium, high-performance launcher built for the modern community.</b>
+</p>
 
-✨ Key Features
-📡 Real-time Social Hub
-Global Presence: Track what your friends are playing in real-time.
-Instant Messaging: Seamlessly chat with friends across the platform.
-Mini-Profiles: Beautiful, hoverable mini-profile cards with animated GIF backgrounds.
-Dynamic Presence: Discord Rich Presence integration to show off your gaming sessions.
-🛡️ Bulletproof Save Management
-Intelligent Discovery: Tiered search engine that finds game saves across LocalLow, AppData, and Documents in milliseconds.
-Async Backups: High-speed, non-blocking ZIP backups that ensure your progress is never lost.
-Smart Cloud Sync: Your library and settings persistent across devices via Supabase.
-🎨 Premium Experience
-Glassmorphic Design: A state-of-the-art Black & White UI with subtle transparency and smooth animations.
-Gamer-Centric Notifications: "Smart Silence" mode suppresses notifications during full-screen gameplay to ensure 100% immersion.
-Optimized Performance: Multi-threaded game extraction and lightweight footprint.
-🚀 Getting Started
-Installation
-Download the latest release from the Releases page.
-Run the VAPOR-Setup.exe.
-Launch VAPOR and start building your library!
-Development Setup
-If you want to contribute or build from source:
+---
 
-bash
-# Clone the repository
-git clone https://github.com/uniiversee/vapor.git
-# Install dependencies
-npm install
-# Run in development mode
-npm start
-# Build the production executable
-npm run build
-🛠️ Technology Stack
-Core: Electron
-Backend: Supabase (Auth, Database, Realtime)
-Presence: Discord RPC
-Utilities: Adm-Zip, Cheerio, Node-fetch
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+## ✦ THE EXPERIENCE
+VAPOR isn't just a launcher; it's your new gaming command center. Designed with a sleek, glassmorphic aesthetic and powered by robust background engines, VAPOR brings your entire library, your friends, and your game saves into one unified, premium environment.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-⚖️ License
-Distributed under the MIT License. See LICENSE for more information.
+## 🚀 GET STARTED
+Ready to join the ecosystem? Download the latest version of VAPOR and level up your library management today.
 
-Developed with ❤️ by uniiversee · Powered by SteamRIP
+### [**DOWNLOAD LATEST RELEASE**](https://github.com/uniiversee/vapor-releases)
+*Latest Version: 1.1.1 — Windows x64*
+
+---
+
+## 🔥 KEY HIGHLIGHTS
+
+### 📡 CONNECTED REAL-TIME SOCIAL
+Stay in the loop with a fully integrated social core. See what your friends are playing, chat instantly, and explore beautiful developer-grade profiles with animated backgrounds. VAPOR keeps the community at the heart of the experience.
+
+### 🛡️ BULLETPROOF SAVE ENGINE
+Never lose a second of progress. Our intelligent discovery engine scans your system in milliseconds to find and backup your saves from even the most hidden directories. Fast, asynchronous, and completely transparent.
+
+### 📺 IMMERSIVE "SMART SILENCE"
+VAPOR respects your performance. When you're in the zone, we vanish. Our smart notification system ensures that focus is never stolen, and popups are completely suppressed during full-screen gameplay. 100% immersion, guaranteed.
+
+---
+
+## 💎 PREMIUM BY DESIGN
+- **Glassmorphic UI**: A state-of-the-art interface that feels alive.
+- **High-Speed Extraction**: Get into your games faster with multi-threaded processing.
+- **Privacy First**: Your data, your backups, your experience.
+
+---
+
+<p align="center">
+  <i>Developed by uniiversee · Powered by SteamRIP</i><br>
+  <b>© 2026 VAPOR</b>
+</p>
