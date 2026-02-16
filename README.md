@@ -38,6 +38,6 @@ VAPOR respects your performance. When you're in the zone, we vanish. Our smart n
 ---
 
 <p align="center">
-  <i>Developed by uniiversee · Powered by SteamRIP</i><br>
+  <i>Developed by mula · Powered by SteamRIP</i><br>
   <b>© 2026 VAPOR</b>
 </p>
